@@ -291,6 +291,10 @@ ul li:last-child{
 	bottom: 20px;
 }
 
+.tabla td{
+	width: 25%;
+}
+
 .tabla img{
 	width: 30px;
 	position: relative;
